@@ -17,4 +17,10 @@ public class ExTest {
 	public void test2() {
 		System.out.println("test====>2");
 	}
+
+	@Test
+	public void test14() {
+		System.out.println("test====>14");
+	}
+
 }
